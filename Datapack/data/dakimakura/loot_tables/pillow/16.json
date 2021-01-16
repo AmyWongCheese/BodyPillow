@@ -1,0 +1,47 @@
+{
+	"type": "generic",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"weight": 1,
+					"name": "minecraft:item_frame",
+					"functions": [
+						{
+							"function": "set_count",
+							"count": 1
+						},
+						{
+							"function": "set_nbt",
+							"tag": "{CustomModelData:343533,EntityTag:{Silent:1b,Tags:[\"dakimakura\"],Item:{id:\"minecraft:item_frame\",Count:1b,tag:{CustomModelData:343533,dakimakura:1}},Invisible:1b}}"
+						},
+						{
+							"function": "set_name",
+							"name": [
+								{
+									"translate": "item.dakimakura.pillow.16.name",
+									"italic": false
+								}
+							]
+						},
+						{
+							"function": "set_lore",
+							"lore": [
+								{
+									"translate": "item.dakimakura.pillow.16.lore1",
+									"italic": false
+								},
+								{
+									"translate": "item.dakimakura.pillow.16.lore2",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

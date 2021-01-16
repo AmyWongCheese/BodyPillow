@@ -1,0 +1,11 @@
+{
+	"pack": {
+		"pack_format": 6,
+		"description": [
+			{
+				"translate": "dakimakura.resourcepack.name",
+				"color": "gold"
+			}
+		]
+	}
+}

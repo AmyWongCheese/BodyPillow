@@ -1,0 +1,6 @@
+{
+	"parent": "item/dakimakura/base",
+	"textures": {
+		"0": "item/dakimakura/8"
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "dakimakura:random_design"
+            }
+        }
+    },
+    "rewards": {
+        "function": "dakimakura:random_design"
+    }
+}

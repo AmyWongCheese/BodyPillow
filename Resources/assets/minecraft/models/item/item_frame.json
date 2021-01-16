@@ -1,0 +1,212 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/item_frame"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data":34351
+			},
+			"model": "item/dakimakura/base"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34352
+			},
+			"model": "item/dakimakura/bed"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34353
+			},
+			"model": "item/dakimakura/base_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34354
+			},
+			"model": "item/dakimakura/bed_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34355
+			},
+			"model": "item/dakimakura/base_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34356
+			},
+			"model": "item/dakimakura/bed_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34357
+			},
+			"model": "item/dakimakura/base_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34358
+			},
+			"model": "item/dakimakura/bed_3"
+		},
+		{
+			"predicate": {
+				"custom_model_data":34359
+			},
+			"model": "item/dakimakura/base_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343510
+			},
+			"model": "item/dakimakura/bed_4"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343511
+			},
+			"model": "item/dakimakura/base_5"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343512
+			},
+			"model": "item/dakimakura/bed_5"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343513
+			},
+			"model": "item/dakimakura/base_6"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343514
+			},
+			"model": "item/dakimakura/bed_6"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343515
+			},
+			"model": "item/dakimakura/base_7"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343516
+			},
+			"model": "item/dakimakura/bed_7"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343517
+			},
+			"model": "item/dakimakura/base_8"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343518
+			},
+			"model": "item/dakimakura/bed_8"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343519
+			},
+			"model": "item/dakimakura/base_9"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343520
+			},
+			"model": "item/dakimakura/bed_9"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343521
+			},
+			"model": "item/dakimakura/base_10"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343522
+			},
+			"model": "item/dakimakura/bed_10"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343523
+			},
+			"model": "item/dakimakura/base_11"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343524
+			},
+			"model": "item/dakimakura/bed_11"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343525
+			},
+			"model": "item/dakimakura/base_12"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343526
+			},
+			"model": "item/dakimakura/bed_12"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343527
+			},
+			"model": "item/dakimakura/base_13"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343528
+			},
+			"model": "item/dakimakura/bed_13"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343529
+			},
+			"model": "item/dakimakura/base_14"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343530
+			},
+			"model": "item/dakimakura/bed_14"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343531
+			},
+			"model": "item/dakimakura/base_15"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343532
+			},
+			"model": "item/dakimakura/bed_15"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343533
+			},
+			"model": "item/dakimakura/base_16"
+		},
+		{
+			"predicate": {
+				"custom_model_data":343534
+			},
+			"model": "item/dakimakura/bed_16"
+		}
+	]
+}

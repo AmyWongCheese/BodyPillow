@@ -1,0 +1,74 @@
+{
+	"type": "generic",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/1"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/2"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/3"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/4"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/5"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/6"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/7"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/8"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/9"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/10"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/11"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/12"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/13"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/14"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/15"
+				},
+				{
+					"type": "minecraft:loot_table",
+					"name": "dakimakura:design/16"
+				}
+			]
+		}
+	]
+}

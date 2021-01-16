@@ -1,0 +1,6 @@
+{
+	"parent": "item/dakimakura/bed",
+	"textures": {
+		"0": "item/dakimakura/10"
+	}
+}
