@@ -8,7 +8,7 @@
     "equipment": {
       "mainhand": {
         "item": "minecraft:item_frame",
-        "nbt": "{CustomModelData:343530}"
+        "nbt": "{CustomModelData:343529}"
       }
     }
   }

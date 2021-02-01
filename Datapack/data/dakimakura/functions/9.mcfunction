@@ -3,8 +3,11 @@ execute as @a if predicate dakimakura:9/mainhand_is_sneaking run item entity @p 
 execute as @a if predicate dakimakura:9/offhand_is_sneaking run item entity @p weapon.offhand replace item_frame{display:{Name:'{"translate":"item.dakimakura.pillow.9.name","italic":false}',Lore:['[{"text":"item.dakimakura.pillow.9.lore1","italic":false}]','{"text":"item.dakimakura.pillow.9.lore2","italic":false}']},CustomModelData:343520,EntityTag:{Silent:1b,Tags:["dakimakura"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:343520,dakimakura:1}},Invisible:1b}} 1
 
 #replace pillow for bed to pillow 
+execute as @a if predicate dakimakura:9/mainhand_bed_not_sneaking run loot replace entity @p weapon.mainhand loot dakimakura:pillow/9
+execute as @a if predicate dakimakura:9/offhand_bed_not_sneaking run loot replace entity @p weapon.offhand loot dakimakura:pillow/9
+
+#replace pillow item frame to pillow 
 execute as @a if predicate dakimakura:9/mainhand_not_sneaking run loot replace entity @p weapon.mainhand loot dakimakura:pillow/9
-execute as @a if predicate dakimakura:9/offhand_not_sneaking run loot replace entity @p weapon.offhand loot dakimakura:pillow/9
 
 #floor crafting
 #input
